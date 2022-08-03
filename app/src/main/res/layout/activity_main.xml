@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="eva rohas"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="4dp" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="42dp"
+        android:text="NIS:2987"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="52dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="felim edi prabowo"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="94dp" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="42dp"
+        android:text="NIS:2988"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fitri rahmawati"
+        android:textSize="30dp"
+        android:background="#00ff00"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="194dp" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="42dp"
+        android:text="NIS:2992"
+        android:textSize="25dp"
+        android:background="#00ff00"
+        tools:layout_editor_absoluteX="-5dp"
+        tools:layout_editor_absoluteY="230dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hamdan ainun na'im"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="280dp" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="42dp"
+        android:text="NIS:2993"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="316dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:text="heni wijayanti"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="404dp" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="42dp"
+        android:text="NIS:2995"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="184dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+
+</LinearLayout>
